@@ -46,7 +46,7 @@ export const UserLocation = styled.div`
 
 export const Separator = styled.hr`
   border-top: 1px solid ${({ theme }) => theme.darkGray};
-  margin: 1em 0;
+  margin: 2.2em 0;
 `;
 
 export const Details = styled.div`
