@@ -26,7 +26,7 @@ export const UserImage = styled.img`
 `;
 
 export const UserInfo = styled.section`
-  margin-top: 4em;
+  margin-top: 5em;
 `;
 
 export const Username = styled.span`
