@@ -1,3 +1,10 @@
+@import url('https://fonts.google.com/specimen/Kumbh+Sans');
+
 ::-webkit-scrollbar {
   display: none;
+}
+
+body {
+  background: hsl(185, 75%, 39%);
+  margin: 0;
 }
