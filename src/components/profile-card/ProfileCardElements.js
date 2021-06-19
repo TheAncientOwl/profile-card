@@ -7,7 +7,7 @@ export const Card = styled.div`
   overflow: hidden;
   background: ${({ theme }) => theme.white};
   box-shadow: 0.12em 0.12em ${({ theme }) => theme.darkCyan};
-  font-family: 'Kumbh Sans', cursive;
+  font-family: 'Kumbh Sans', sans-serif;
   padding-bottom: 1em;
 `;
 
